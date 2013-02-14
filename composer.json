@@ -5,7 +5,7 @@
     "keywords": ["http", "rest", "web service", "curl", "client", "HTTP client", "guzzle", "api"],
     "homepage": "https://github.com/devtrw/GuzzleBundle",
     "license": "MIT",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "authors": [
         {
             "name": "David de Boer"
